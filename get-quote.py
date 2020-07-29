@@ -7,5 +7,5 @@ def main():
 
   #print(quotes)
 
-if honda== "__main__":
+if __honda__== "__main__":
   main()
