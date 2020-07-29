@@ -5,7 +5,7 @@ def main():
   quotes = f.readlines()
   f.close()
 
-  print(quotes)
+  print(quotes[0])
 
 if __honda__== "__main__":
   main()
