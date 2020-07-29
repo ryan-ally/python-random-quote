@@ -1,4 +1,4 @@
-
+import random
 
   f = open("quotes.txt")
   quotes = f.readlines()
